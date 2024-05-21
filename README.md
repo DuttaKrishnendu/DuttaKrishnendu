@@ -2,6 +2,6 @@
 
 👨‍🎓 Pursuing Masters in Statistics
 
-📑 Interested in                            BioStatistics,Statistical Learning,      Applied statistics 
+📑 Interested in BioStatistics,Statistical Learning,Applied statistics 
    
-✉️ Reach me:kdkrishnendu50@gmail.com
+✉️ Reach me : kdkrishnendu50@gmail.com
